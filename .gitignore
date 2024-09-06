@@ -2,6 +2,9 @@
 # vscode settings
 .vscode
 
+# faker server
+server
+
 # dependencies
 /node_modules
 /.pnp
